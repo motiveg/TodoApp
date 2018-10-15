@@ -1,0 +1,12 @@
+FINISHED
+--------
+- Add task button on the right of navigation
+- Touching a task shows detail view and allows editing
+- Touching the box on the left side of a task marks it as complete
+- Tap outside of text view in detail to remove keyboard
+- Retain tasks even if app is closed (take care of this in AppDelegate.swift)
+- Task deletion
+- Create unit tests for models
+
+TODO
+----
